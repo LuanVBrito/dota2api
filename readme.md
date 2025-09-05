@@ -1,0 +1,1 @@
+# Este é um projeto pessoal no qual utilizo python para desenvolver uma database no SQL
